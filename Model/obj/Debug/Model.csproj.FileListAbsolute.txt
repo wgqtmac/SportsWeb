@@ -1,0 +1,14 @@
+F:\网站\体育部网站\Model\bin\Debug\Model.dll
+F:\网站\体育部网站\Model\bin\Debug\Model.pdb
+F:\网站\体育部网站\Model\obj\Debug\Model.dll
+F:\网站\体育部网站\Model\obj\Debug\Model.pdb
+F:\网站\体育部网站\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\王国庆\newweb\体育部网站\Model\bin\Debug\Model.dll
+E:\王国庆\newweb\体育部网站\Model\bin\Debug\Model.pdb
+E:\王国庆\newweb\体育部网站\Model\obj\Debug\Model.dll
+E:\王国庆\newweb\体育部网站\Model\obj\Debug\Model.pdb
+G:\王国庆\体育部网站\Model\bin\Debug\Model.dll
+G:\王国庆\体育部网站\Model\bin\Debug\Model.pdb
+G:\王国庆\体育部网站\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\王国庆\体育部网站\Model\obj\Debug\Model.dll
+G:\王国庆\体育部网站\Model\obj\Debug\Model.pdb

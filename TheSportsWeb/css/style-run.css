@@ -1,0 +1,39 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-image: url(../imgs/bg.jpg);
+	background-repeat: repeat-x;
+}
+.main{
+	margin:0 auto;
+	width: 972px;
+	height:600px;
+	background-image: url(../imgs/login.jpg);
+}
+ul{
+	padding-top: 283px;
+	padding-left: 400px;
+	list-style: none inside none;
+	float:left;
+}
+li{
+	margin-top: 20px;
+}
+.input{
+	width:170px;
+	height:25px;
+	background-image: url(../imgs/input.jpg);
+	border:none;
+	padding-left: 10px;
+	overflow: hidden;
+}
+.button{
+	margin-top: 300px;
+	margin-left: 30px;
+	width:71px;
+	height:78px;
+	background-image: url(../imgs/log.jpg);
+	border:none;
+}

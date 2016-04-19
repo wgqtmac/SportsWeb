@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="common3.master.cs" Inherits="TheSportsWeb.common3" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style type="text/css">
+        .fdiv
+        {
+            width: 715px;
+        }
+
+            .fdiv h3
+            {
+                margin-left:250px;
+            }
+
+        .nr
+        {
+            width: 100%;
+            margin-top: 15px;
+        }
+
+            .nr p
+            {
+                text-indent: 2em;
+                line-height: 180%;
+                font-size: 14px;
+            }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div class="fdiv">
+                <h3>
+                    <asp:ContentPlaceHolder ID="head_title" runat="server"></asp:ContentPlaceHolder>
+                </h3>
+                <div class="nr">
+
+                    <asp:ContentPlaceHolder ID="content" runat="server">
+                    </asp:ContentPlaceHolder>
+
+                </div>
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>

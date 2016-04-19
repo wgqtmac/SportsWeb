@@ -1,0 +1,289 @@
+.s-content{
+	width:1000px;
+	padding-bottom: 10px;
+	border:1px solid #a2e4f9;
+	margin:10px auto;
+}
+.s-content1{
+	width:1000px;
+	padding-bottom: 10px;
+	border:1px solid #a2e4f9;
+	margin:10px auto;
+	height: 650px;
+}
+.s-fleft{
+	height:580px;
+	width:240px;
+	float:left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.s-fleft h3{
+	width:240px;
+	height:25px;
+	background-color: #3399cc;
+	color:#fff;
+	text-align: center;
+	padding-top: 6px;
+}
+.new-list{
+	background-image: url(../imgs/sbg.jpg);
+	background-repeat: repeat-x;
+	width:100%;
+	height:500px;
+	margin-top: 5px;
+}
+.new-list ul{
+	padding-top: 20px;
+	margin-left: 20px;
+}
+.new-list li {
+	margin-top: 10px;
+
+}
+.new-list li a{
+	font-size: 14px;
+	font-weight: bold;
+    float:left;
+
+}
+.new-list li a:active{
+	color:#fbb903;
+}
+.new-list li a:hover{
+	color:#fbb903;
+}
+
+.s-fright{
+	height:580px;
+	width:725px;
+	float:left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.s-fright1{
+	width:980px;
+	margin: 10px auto;
+}
+.s-fright p{
+	width:710px;
+	height:25px;
+	background-color: #a2e4f9;
+	color:#999;
+	text-align:left;
+	padding-top: 6px;
+	padding-left: 15px;
+}
+.frightp{
+	width:965px;
+	height:25px;
+	background-color: #a2e4f9;
+	color:#999;
+	text-align:left;
+	padding-top: 6px;
+	padding-left: 15px;
+}
+.new {
+	margin:10px auto;
+	width:945px;
+	padding-bottom: 10px;
+}
+.new-header{
+	text-align: center;
+	height:45px;
+
+	width:100%;
+	padding-top:5px;
+}
+.main{
+	width:100%;
+	padding-bottom: 10px;
+
+}
+.main p{
+	text-indent: 2em;
+	font-size: 14px;
+	line-height: 200%;
+}
+.main span{
+	 	clear: both;
+    display: block;
+	margin:10px auto;
+	text-align: center;
+}
+.main img{
+ 	clear: both;
+    display: block;
+    max-height: 450px;
+    margin: 10px auto;
+    max-width: 700px;
+}
+.bt{
+	width:350px;
+	height:25px;
+	margin:10px auto;
+	
+}
+.bt a{
+	float:left;
+	margin-left: 50px;
+	font-size: 18px;
+}
+.bt a:hover{
+	color:#0396cc;
+}
+.bt p{
+	font-size: 18px;
+	margin-right: 20px;
+	float:right;
+}
+.bt p span{
+	color:#0396cc;
+}
+.bt input{
+		float:right;
+		padding:0 5px;
+		font-size: 14px;
+		margin-right: 5px;
+		background-color: #fff;
+		border:2px solid #999;
+}
+.bt input:hover{
+	background-color: #f9b900;
+	color:#fff;
+	border:2px solid #fb7f05;
+}
+.inw{
+	width:725px;
+	height:550px;
+}
+.main-list{
+	width:950px;
+	height:600px;
+	margin:0px auto;
+}
+
+.new-ul li{
+	list-style-image: url(../imgs/list-blue.png);
+    border-bottom:1px dashed #ccc;
+   padding-bottom:5px;
+	list-style-position: inside;
+	margin-top: 10px;
+}
+.new-ul li a{
+	font-size: 15px;
+    /*float:left;*/
+}
+.new-ul  li span{
+	margin-left: 20px;
+	color:#666;
+	font-size: 14px;
+    float:right;
+    margin-right:30px;
+    *margin-top:-18px;
+}
+.bt-list{
+	padding-bottom: 50px;
+}
+.bt-list p{
+	float:left;
+	margin-left: 30px;
+	font-size: 16px;
+	font-weight: bold;
+	color:#000;
+}
+
+.main-pic{
+	width:100%;
+	padding-bottom: 10px;
+	height:1430px;
+}
+.box{
+	float:left;
+	margin-left: 40px;
+	width: 140px;
+	height: 240px;
+	text-align: center;
+}
+.box img{
+	height:170px;
+	width:140px;
+	margin-bottom: 5px;
+}
+.box a {
+	color:#000;
+	font-size: 14px;
+	padding-top: 5px;
+	padding-left: 5px;
+	
+}
+.box a span{
+	float:right;
+	padding-right: 5px;
+}
+.box p{
+	font-size: 14px;
+	letter-spacing: 0px;
+	margin-top: 10px;
+}
+.box p span{
+	float:right;
+}
+.main-pic-s{
+	margin:10px auto;
+	width:100%;
+	height:360px;
+
+}
+.intro{
+	width:800px;
+	margin:20px auto;
+	border:2px solid #fbd04e;
+	height:350px;
+	background-color: #fffedf;
+}
+.intro h3{
+	width:100%;
+	height:30px;
+	background-image: url(../imgs/intro-header.jpg);
+	background-repeat: repeat-y;
+	padding-top:10px;
+	padding-left: 30px;
+	color:#fff;
+}
+.intro img{
+	float:left;
+	margin-top: 50px;
+	margin-left: 60px;
+	width:150px;
+	height:180px;
+}
+.intro-main{
+	float:right;
+	margin-top:50px;
+	margin-right:80px;
+	width:460px;
+	height:200px;
+
+}
+.intro-main h2{
+	color:red;
+	float:left;
+	font-family: Î¢ÈíÑÅºÚ;
+	margin-bottom: 10px;
+}
+.intro-main span{
+	margin-top:7px;
+	float:left;
+	margin-left: 5px;
+	font-size: 14px;
+	color:#0085e5;
+	font-weight: bold;
+
+}
+.intro-main p{
+	clear:both;
+	font-size: 14px;
+	line-height: 180%;
+	
+}

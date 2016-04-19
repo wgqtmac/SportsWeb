@@ -1,0 +1,231 @@
+﻿/*通用页面样式*/
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html, body, form {
+    width: 100%;
+    font-size: 20px;
+}
+
+.text {
+    padding:2px 5px;
+    height:20px;
+    line-height:20px;
+    border:1px solid #e5e5e5;
+    color:#555;
+    width:120px;
+}
+
+.btn {
+    line-height: 25px;
+    height: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #3399FF;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+.header {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 100px;
+    background-color: #0066FF;
+}
+
+.logo {
+    font-size: 20px;
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.header-info {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.header-info a {
+    color: #FFFFFF;
+}
+
+.left {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    bottom: 20px;
+    width: 150px;
+    background-color: #99CCFF;
+    text-align: center;
+    font-size:18px;
+}
+
+    .left a {
+        color: #ffffff;
+    }
+
+.right {
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    right: 0px;
+    bottom: 20px;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #0066FF;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    color: #ffffff;
+}
+
+.page-title {
+    line-height: 25px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.page-filter {
+    margin-bottom:10px;
+    margin-top:10px;
+}
+
+.page-tool {
+    margin-bottom:10px;
+}
+
+.page-table {
+}
+
+.page-table table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #e5e5e5;
+    font-family:Tahoma, Helvetica, Arial;
+}
+
+.page-table table tr {
+}
+
+.page-table table tr:hover {
+    background-color: #C8FCFF;
+}
+
+.page-table table th {
+    /*line-height: 28px;*/
+    padding:4px 0;
+    height: 20px;
+    background-color: #F7F7F7;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+}
+
+.page-table table td {
+    height: 20px;
+    padding: 4px;
+    border: 1px solid #e5e5e5;
+}
+
+.page-table .td-end { 
+    border-bottom:0px none #555555 !important;
+    border-top:0px none #555555 !important;
+}
+
+/*详细页*/
+
+.page-info {
+    margin-top:20px;
+}
+
+h3 {
+    color:#009FA8;
+    font-size:18px;
+    margin: 15px 0;
+    padding-left:25px;
+    
+}
+
+.page-row {
+    margin-bottom:13px;
+}
+
+.page-row .span {
+    width:110px;
+    display:inline-block;
+    text-align:right;
+    margin:0 4px 0 0; 
+    _margin-top:-19px;
+}
+
+.page-row i{display:inline-block; width:5px; text-align:center; color:red;}
+
+.page-row .text{width: 130px; padding:2px 4px; }
+.page-row .text2{width: 396px !important;}
+.page-row .text3{width: 130px !important;}
+
+.page-row .select {
+    width: 140px; padding:2px 4px; 
+    border:1px solid #e5e5e5;
+    color:#555;
+}
+
+.page-line {
+    margin:0 auto;border-bottom:1px dashed #999999;
+    margin-bottom:5px;
+}
+.page-line2 {
+    margin:0 auto;border-bottom:1px solid #999999;
+    margin-bottom:5px;
+}
+
+.page-submit {
+    margin-top:15px;
+    text-align:left;
+    padding-left:120px;
+}
+
+.page-submit .btn {
+    margin-right:15px;
+}
+
+/*首页*/
+.main {
+    width:600px;
+    height:361px;
+    margin-left:150px;
+    margin-top:50px;
+}
+
+.main-left {
+    float: left;
+    height: 361px;
+    width: 300px;
+    background-image: url('../imgs/word.png');
+    background-repeat: no-repeat;
+}
+
+.main-right {
+    float: left;
+    margin-top:50px;
+    margin-left:20px;
+    line-height:25px;
+    font-size:18px;
+}

@@ -1,0 +1,21 @@
+﻿body
+{
+}
+table
+{
+    width:900px;
+    text-align:center;
+    }
+table th
+{
+    background-color:#CAE8EA;
+    height:30px;
+    border:1px solid #B5D6E6;
+    font-size:14px;
+    }
+.addnews
+{
+    width:800px;
+    margin-left:100px;
+    margin-top:50px;
+    }

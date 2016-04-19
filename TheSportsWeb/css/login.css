@@ -1,0 +1,73 @@
+﻿/*登录页面样式*/
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html, body, form {
+    width: 100%;
+    font-size: 18px;
+}
+
+body {
+    background-color: #0066FF;
+}
+
+.text {
+    padding:2px 5px;
+    height:20px;
+    line-height:20px;
+    border:1px solid #e5e5e5;
+    color:#555;
+    width:120px;
+}
+
+.btn {
+    line-height: 25px;
+    height: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #3399FF;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.login {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 170px;
+    border: 1px solid #e5e5e5;
+    width: 400px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.login-title {
+    text-align: center;
+    line-height: 50px;
+    color: #0066FF;
+    font-size: 25px;
+    font-weight:bold;
+    margin-bottom:20px;
+    margin-top:10px;
+}
+
+.login-content {
+    margin-bottom:20px;
+}
+
+.login-row {
+    margin-bottom:13px;
+}
+
+.login-row .span {
+    width:110px;
+    display:inline-block;
+    text-align:right;
+    margin:0 4px 0 0; 
+    _margin-top:-19px;
+}
+
+.login-row .text{width: 130px; padding:2px 4px; }

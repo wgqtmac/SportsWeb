@@ -1,0 +1,96 @@
+﻿
+/*左侧导航*/
+body{margin:0px;padding:0px;}
+.tb{text-align: center;border:1px solid #3a9cff;}
+#nav {
+ width:140px;
+ line-height:35px; 
+ list-style-type: none;
+ text-align:left;
+  height:300px;
+  margin-top:0px;
+  border-top:3px solid #86b3ee;
+  
+}
+#nav a {
+ width: 130px; 
+ display: block;
+ padding-left:10px;
+ 
+}
+#nav li {
+ background:#d6e8ff; 
+ border-bottom:1px solid #b2d4ff; 
+ float:left;
+
+}
+#nav li a:hover{
+ background:#369aff; 
+}
+#nav a:link  {
+ color:#666; text-decoration:none;
+}
+#nav a:visited  {
+ color:#666;text-decoration:none;
+}
+#nav a:hover  {
+ color:#FFF;text-decoration:none;font-weight:bold;
+}
+/*==================二级目录===================*/
+#nav li ul {
+ list-style:none;
+ text-align:left;
+}
+#nav li ul li{ 
+ background: white; 
+}
+#nav li ul a{
+         padding-left:10px;
+         width:130px;
+ 
+}
+
+#nav li ul a:link  {
+ color:#666; text-decoration:none;
+}
+#nav li ul a:visited  {
+ color:#666;text-decoration:none;
+}
+#nav li ul a:hover {
+ color:#F3F3F3;
+ text-decoration:none;
+ font-weight:normal;
+ background:#3c9dff;
+ 
+}
+#nav li:hover ul {
+ left: auto;
+}
+#nav li.sfhover ul {
+ left: auto;
+}
+#content {
+ clear: left; 
+}
+#nav ul.collapsed {
+ display: none;
+}
+-->
+
+/*左侧导航结束*/
+
+/*管理界面公共*/
+.m_box{width:1180px;height:auto;}
+.m_head{width:1185px;
+height:20px;border-bottom:1px solid #90b8ed;line-height:20px;background:url(../image/head_bg.png);color:#003399;
+}
+.m_middle{width:1180px;height:23px;line-height:23px;margin-top:10px;text-align:center;border-bottom:2px solid #3a9cff;padding-bottom:5px;}
+.m_content{width:1180px;
+height:380px;margin-top:10px;font-size:13px;
+}
+.m_m_c{width:100px;float:left;}
+.t_button{width:1180px;height:20px;margin-top:28px;text-align:right;}
+/*添加界面公共*/
+
+a{color:Black;text-decoration:none;}
+
